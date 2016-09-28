@@ -1,0 +1,150 @@
+[ 2016-09-28T10:02:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-09-28T10:02:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-09-28T10:02:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2016-09-28T10:02:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-09-28T10:02:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2016-09-28T10:02:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-09-28T10:02:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-09-28T10:02:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2016-09-28T10:02:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-09-28T10:06:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2016-09-28T10:06:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2016-09-28T10:06:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2016-09-28T10:06:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-09-28T10:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2016-09-28T10:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-09-28T10:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-09-28T10:07:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+
+[ 2016-09-28T10:07:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+
+[ 2016-09-28T10:07:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-09-28T10:07:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2016-09-28T10:07:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-09-28T10:07:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-09-28T10:07:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-09-28T10:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-09-28T10:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-09-28T10:07:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-09-28T10:08:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2016-09-28T10:08:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+
+[ 2016-09-28T10:08:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-09-28T10:08:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/Images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+

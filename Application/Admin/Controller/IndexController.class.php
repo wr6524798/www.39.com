@@ -7,7 +7,9 @@ class IndexController extends Controller
 {
     public function index()
     {
-        $this->display();
+//        echo "1231";
+        $this->display('Index/index');
+
     }
     public function top()
     {
